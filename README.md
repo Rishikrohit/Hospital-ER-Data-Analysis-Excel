@@ -40,7 +40,7 @@ The goal of this project is to transform raw hospital data into meaningful insig
 
 ## 📂 File Structure
 
-- `mega project.xlsx` – Contains:
+- `Hospital_Data_Analysis.xlsx` – Contains:
   - Dashboard Sheet
   - Pivot Report
   - Daily ER Patient Trends
